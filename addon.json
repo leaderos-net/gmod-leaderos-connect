@@ -1,0 +1,10 @@
+{
+    "title": "LeaderOS Connect",
+    "description": "Connect your Garry's Mod server to LeaderOS, enabling you to execute commands on your server directly from the website.",
+    "type": "gamemode",
+    "tags": ["roleplay", "realism"],
+    "ignore": [
+        "*.md",
+        "*.psd"
+    ]
+}
